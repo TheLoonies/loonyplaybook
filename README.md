@@ -23,9 +23,9 @@
 - PRs require approval from a Core Developer
 
 ### 🎨 Designers
-- Read or Triage access
-- Provide visual/UI feedback
-- Participate in PR reviews when needed
+- Read or Triage access.
+- Provide visual/UI feedback.
+- Participate in PR reviews when needed.
 
 ---
 
@@ -61,12 +61,13 @@
 ---
 
 ## 📑 CODEOWNERS
-A `.github/CODEOWNERS` file should exist in every repo to auto-request reviews.
+A `.github/CODEOWNERS` file should exist in every repo to auto-request reviews from specific people. **Note:** On private repos using the Free plan, GitHub will suggest reviewers but cannot enforce approval from CODEOWNERS in branch protection rules.
 
 Example:
 ```
 * @Engulfedleader2 @ItzYaBoiiJoe
 ```
+Use this to guide your team — merging still requires manual discipline unless you upgrade to a GitHub Team plan.
 
 ---
 

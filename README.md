@@ -113,6 +113,10 @@ To start a new project:
 - Use GitHub Projects for roadmap planning
 - Label issues with `good first issue`, `bug`, `enhancement`, etc.
 
+## 📱 Published Apps
+
+Explore what we've shipped to the world:  
+👉 [View Published Apps →](./published-apps.md)
 ---
 
 Welcome aboard! 🚀

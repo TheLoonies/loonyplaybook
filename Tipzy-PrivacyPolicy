@@ -1,0 +1,94 @@
+# Tipzy Privacy Policy
+
+_Last updated: August 2025_
+
+Thank you for choosing Tipzy! We respect your privacy and are committed to protecting any information you share while using our tip-calculating app. This Privacy Policy explains:
+
+- What data we collect  
+- How we use and store it  
+- Your choices and rights  
+- How to contact us
+
+---
+
+## 1. Information We Collect
+
+1. **Tip Calculations & History**  
+   - **What:** Amounts you enter (bill total, tip percentage) and computed results.  
+   - **Why:** To calculate your tip & total, and to build your in-app history of recent calculations.  
+   - **Where:** Stored locally on your device—never sent to our servers.
+
+2. **Crash Reports & Analytics (Optional)**  
+   - **What:** Anonymous crash logs, app usage events (e.g. “Calculate tapped”).  
+   - **Why:** To diagnose errors and improve performance.  
+   - **Opt-In:** You may choose to disable analytics in Settings.
+
+3. **No Personal Identifiers**  
+   - We do **not** collect your name, email, payment info, location, or device identifiers.
+
+---
+
+## 2. How We Use Your Data
+
+- **Core Functionality**  
+  - Perform tip calculations and display totals.  
+  - Maintain an in-app history so you can review past tips.
+
+- **App Improvement (if enabled)**  
+  - Aggregate crash and usage data to fix bugs and optimize features.
+
+We do **not** sell or rent any data to third parties.
+
+---
+
+## 3. Data Storage & Security
+
+- All tip entries and results are saved **locally** on your device using encrypted on-device storage.  
+- Analytics and crash logs (if opted in) are transmitted over HTTPS and stored encrypted in our secure analytics backend.  
+- We employ industry-standard encryption in transit (TLS) and at rest.
+
+---
+
+## 4. Third-Party Services
+
+Tipzy may use the following services strictly for analytics and crash reporting:
+
+| Service        | Purpose                | Data Collected          |
+| -------------- | ---------------------- | ----------------------- |
+| Firebase Crashlytics | Crash reporting      | Stack traces (no PII)   |
+| Google Analytics for Firebase | Anonymous usage events | Screen views, taps (no PII) |
+
+Each service is governed by its own privacy policy. We never share your local tip history with them.
+
+---
+
+## 5. Your Rights & Choices
+
+- **View or Delete History**  
+  - Within Tipzy: swipe to delete individual entries or clear all history in Settings.  
+- **Analytics Opt-Out**  
+  - Disable “Send Usage Data” toggle in Settings to stop any crash or usage reports.  
+- **App Uninstall**  
+  - Deleting Tipzy from your device removes all locally stored data.
+
+---
+
+## 6. Children’s Privacy
+
+Tipzy is intended for users aged 13 and over. We do not knowingly collect data from children under 13. If you believe we have inadvertently collected information from a child under 13, please contact us and we will promptly delete it.
+
+---
+
+## 7. Changes to This Policy
+
+We may update this Privacy Policy to reflect app changes or legal requirements. If we make significant changes, we will post the new “Last updated” date here and notify you via an in-app banner.
+
+---
+
+## 8. Contact Us
+
+If you have questions or concerns about this policy, please reach out:
+TO me here on github 
+
+Thank you for trusting Tipzy with your tipping needs!  
+— The LoonyDevs Team 🚀

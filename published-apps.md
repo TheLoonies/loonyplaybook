@@ -13,6 +13,6 @@ Can you guess what today's image is all about?
 
 **Status**: 🚀 Live  
 **Links**:
-- 🌐 [Play the Web Version](https://guess-what-space.vercel.app)
+- 🌐 [Play the Web Version](https://www.guesswhat-apod.space)
 - 📱 App Store – [Download from the app store](https://apps.apple.com/us/app/guess-what-apod-edition/id6747625819)  
 - 🔒 GitHub Repository (Private)

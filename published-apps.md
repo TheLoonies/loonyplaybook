@@ -21,8 +21,8 @@ Can you guess what today's image is all about?
 
 ## 🦊 Guess What – Poki Edition
 
-**Platform**: Web, iOS (Coming Soon)
-**Description**:  
+**Platform**: Web, IOS (Coming Soon)  
+**Description**:
 A fun mini game where you guess the Pokemon! Gotta catch em all!
 
 **Status**: ⚡️ Beta  
@@ -30,3 +30,18 @@ A fun mini game where you guess the Pokemon! Gotta catch em all!
 - 🌐 [Play the Web Version](https://guesswhat-pokemon.vercel.app/)
 - 📱 App Store – [COMING SOON!]  
 - 🔒 GitHub Repository (Private)
+
+---
+
+## 🏐 Match Point +
+
+**Platform**: IOS  
+**Description**:
+Want to track your scores live with friends come check out Match Point!
+
+**Status**: ⚡️ Beta  
+**Links**:
+- 📱 App Store – [COMING SOON!]  
+- 🔒 GitHub Repository (Private)
+
+---

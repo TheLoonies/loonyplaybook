@@ -41,7 +41,7 @@ Want to track your scores live with friends come check out Match Point!
 
 **Status**: ⚡️ Beta  
 **Links**:
-- 📱 App Store – [COMING SOON!]  
+- 📱 App Store – [Get into the beta program] (https://testflight.apple.com/join/RadQfV5T)
 - 🔒 GitHub Repository (Private)
 
 ---

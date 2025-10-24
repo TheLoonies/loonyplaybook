@@ -22,13 +22,26 @@ Can you guess what today's image is all about?
 ## 🦊 Guess What – Poki Edition
 
 **Platform**: Web, IOS (Coming Soon)  
-**Description**:
+**Description**:  
 A fun mini game where you guess the Pokemon! Gotta catch em all!
 
 **Status**: ⚡️ Beta  
 **Links**:
 - 🌐 [Play the Web Version](https://guesswhat-pokemon.vercel.app/)
 - 📱 App Store – [COMING SOON!]  
+- 🔒 GitHub Repository (Private)
+
+---
+
+## Tipzy - Tip Calculator
+
+**Platform**: IOS   
+**Description**:  
+ Wanna have some accurate tipping and bill splitting? This is the app for you
+
+**Status**: 🚀 Live  
+**Links**:
+- 📱 App Store – [Download from the app store](https://apps.apple.com/us/app/tipzy-tipcalculator/id6749466752)  
 - 🔒 GitHub Repository (Private)
 
 ---
